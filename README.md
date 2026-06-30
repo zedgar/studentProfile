@@ -45,6 +45,8 @@ main
 ├── feature-dashboard
 ├── feature-student-profile
 ├── feature-reports
+├── feature-contact
+├── feature-about
 ```
 
 ### Branch Guidelines
