@@ -47,8 +47,6 @@ main
 ├── feature-reports
 ├── feature-contact
 ├── feature-about
-
-000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000
 ```
 
 ### Branch Guidelines
